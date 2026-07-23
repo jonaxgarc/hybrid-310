@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://hybrid310.com/sitemap.xml
